@@ -1,6 +1,6 @@
 # nin-imagenet
 
-Docker container wrapping a simple Caffe model trained on ImageNet
+Docker container wrapping a simple Caffe model trained on ImageNet. [Tinker with a hosted demo!](http://omg.containers.pavlovml.com)
 
 ![nin-imagenet example screenshot](https://raw.githubusercontent.com/pavlovml/nin-imagenet/master/resources/screenshot.png)
 
